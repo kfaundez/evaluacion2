@@ -1,0 +1,23 @@
+/* *{
+  border: 1px solid red;
+}
+ */
+
+ .cienAncho{
+  width: 100%;
+ }
+
+.contenedor {
+  width: 100%;
+}
+
+.link{
+  color: black;
+  text-decoration: none;
+  padding-left: 2px;
+}
+
+.colores{
+  background-color: rgb(248, 215, 234);
+  color: black;
+}
